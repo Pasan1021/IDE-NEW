@@ -4,13 +4,14 @@
   "target": {
     "framework": "arduino",
     "board": "esp32:esp32:esp32_family",
-    "options": {},
-    "sketchPath": "sketch"
+    "options": {}
   },
-  "serial": null,
+  "serial": {
+    "baudRate": 115200
+  },
   "build": {
     "properties": []
   },
   "createdAt": "2026-09-03T07:38:06.630Z",
-  "updatedAt": "2026-09-03T07:38:06.630Z"
+  "updatedAt": "2026-09-08T12:02:41.632Z"
 }
