@@ -2,8 +2,13 @@
   "version": 2,
   "enforcementLevel": "strict",
   "libraries": {
-    "manager": [],
-    "managerResolved": [],
+    "manager": [
+      {
+        "name": "ArduinoJson",
+        "version": "7.4.3",
+        "scope": "pinned"
+      }
+    ],
     "git": []
   }
 }
