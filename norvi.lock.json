@@ -6,7 +6,13 @@
       {
         "name": "ArduinoJson",
         "version": "7.4.3",
-        "scope": "pinned"
+        "scope": "shared"
+      }
+    ],
+    "managerResolved": [
+      {
+        "name": "ArduinoJson",
+        "version": "7.4.3"
       }
     ],
     "git": []
